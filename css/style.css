@@ -1,0 +1,12 @@
+body {
+	background-color: cornsilk;
+}
+
+h1 {
+	color: crimson;
+}
+.one {
+	
+	display: flex;
+	justify-content: space-between;
+}
